@@ -1,7 +1,7 @@
 <h1> CRUD APP </h1>
 
 • Create - Read - Update - Delete
-• Oluştur - Oku - Güncelle - Sil
+( Oluştur - Oku - Güncelle - Sil )
 
 
 <h2> Kullanılan Teknolojiler</h2>
