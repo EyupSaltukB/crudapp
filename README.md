@@ -1,4 +1,4 @@
-<h1> CRUD APP </h1>
+<h1> CRUD App </h1>
 
 • Create - Read - Update - Delete
 ( Oluştur - Oku - Güncelle - Sil )
