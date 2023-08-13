@@ -3,6 +3,9 @@
 • Create - Read - Update - Delete
 ( Oluştur - Oku - Güncelle - Sil )
 
+Bu proje okunan/okunmayan kitapların listesini tutmaya,
+düzenlemeye ve silmeye yarayan bir araçtır.
+
 
 <h2> Kullanılan Teknolojiler</h2>
 
