@@ -4,7 +4,7 @@
 ( Oluştur - Oku - Güncelle - Sil )
 
 Bu proje okunan/okunmayan kitapların listesini tutmaya,
-düzenlemeye ve silmeye yarayan bir araçtır.
+kitapları düzenlemeye ve silmeye yarayan bir kitap listesi projesidir.
 
 
 <h2> Kullanılan Teknolojiler</h2>
