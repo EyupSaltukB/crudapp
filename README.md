@@ -9,8 +9,7 @@ kitapları düzenlemeye,silmeye ve okundu olarak işaretlemeye yarayan bir kitap
 
 <h2> Kullanılan Teknolojiler</h2>
 
-• Javascript
-• React
+• React.js
 • HTML 
 • CSS
 kullanılarak oluşturulmuştur.
